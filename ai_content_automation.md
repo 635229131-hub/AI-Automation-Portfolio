@@ -1,13 +1,28 @@
-# AI Content Production Automation
+# AI Content Production Automation System
+
+## Overview
+
+An AI-assisted workflow designed to improve complex content production
+processes.
 
 ## Problem
-Large amounts of research, planning, scripting and processing require repeated manual effort.
+
+Content workflows often require repeated manual research, planning,
+generation, review, and optimization.
 
 ## Solution
-An AI-assisted workflow combining research, analysis, planning, generation and optimization.
+
+A structured automation system combining AI analysis, workflow
+orchestration, content planning, and quality evaluation.
 
 ## Capabilities
-- Information processing
-- AI-assisted planning
-- Workflow orchestration
-- Quality evaluation
+
+-   Automated research workflows
+-   AI-assisted planning
+-   Content processing pipelines
+-   Quality evaluation loops
+-   Optimization feedback
+
+## Business Value
+
+Reduce repetitive work and create a repeatable production process.

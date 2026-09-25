@@ -1,13 +1,27 @@
 # Multi-Source Intelligence Workflow
 
+## Overview
+
+A structured workflow for collecting, processing, and analyzing
+information from multiple sources.
+
 ## Problem
-Information from multiple sources is difficult to collect and analyze consistently.
+
+Important information is often scattered across different channels and
+requires manual processing.
 
 ## Solution
-Structured collection, filtering, classification and reporting workflow.
+
+Create a workflow that collects data, filters signals, organizes
+information, and produces actionable summaries.
 
 ## Capabilities
-- Data collection
-- Signal filtering
-- Automated summaries
-- Decision support
+
+-   Data collection
+-   Information classification
+-   Automated reporting
+-   Decision support
+
+## Business Value
+
+Improve information processing speed and consistency.

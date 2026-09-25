@@ -1,18 +1,23 @@
-# System Architecture
+# AI Automation System Architecture
 
-## Layers
+## Five Layer Architecture
 
-1. Business Process Layer
-Understand current operations and identify bottlenecks.
+## 1. Business Process Layer
 
-2. AI Intelligence Layer
-LLM reasoning, classification, generation, and decision support.
+Understand current operations and identify repetitive tasks.
 
-3. Automation Layer
-Workflows, APIs, webhooks, and scripts.
+## 2. AI Intelligence Layer
 
-4. Data Layer
-CRM, documents, databases, and business tools.
+Use LLMs for reasoning, classification, generation, and analysis.
 
-5. Reliability Layer
-Testing, monitoring, exception handling, documentation.
+## 3. Automation Layer
+
+Connect workflows through APIs, webhooks, and automation platforms.
+
+## 4. Data and Tool Layer
+
+Integrate CRM systems, documents, databases, and business applications.
+
+## 5. Reliability Layer
+
+Include testing, monitoring, documentation, and exception handling.
